@@ -1,0 +1,17 @@
+[user]
+	name = Shallker
+	email = imshallker@gmail.com
+[color]
+	ui = true
+[push]
+	default = current
+[alias]
+	st = status
+  s = status
+	cm = commit
+  c = commmit
+	log = log --color
+[core]
+	excludesfile = /Users/shallker/.gitignore
+	editor = /usr/bin/vim
+

@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+dev.json
+test-*.js
+*.proto.js
+components
+*.sublime-workspace
+
